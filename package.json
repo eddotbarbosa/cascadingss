@@ -1,0 +1,21 @@
+{
+  "name": "cascadingss",
+  "version": "1.0.0",
+  "description": "A sass css module grid based on flexbox",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "module",
+    "grid",
+    "flexbox"
+  ],
+  "author": "Eduardo Barbosa <ebdotcontact@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.54.5"
+  }
+}
