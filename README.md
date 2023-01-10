@@ -1,6 +1,6 @@
 # Cascadingss
 
-A grid system maded with scss modules.
+A grid system made with scss modules.
 
 ## Technologies
 * sass
