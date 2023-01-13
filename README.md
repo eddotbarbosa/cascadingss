@@ -65,7 +65,10 @@ export {MyComponent};
 ## Classes List:
 | class | properties |
 |-------|------------|
-| col-1~12 | width: $column-1~12;|
+| w | 1/12~12/12 | width: 8.333333%~100%;|
+| w | screen | width: 100vw;|
+| h | 1/12~12/12 | height: 8.333333%~100%;|
+| h | screen | height: 100vh;|
 | block | display: block;|
 | inline-block | display: inline-block;|
 | inline | display: inline;|
@@ -143,4 +146,4 @@ export {MyComponent};
 | layout | class | breakpoint |
 |------|------|-------|
 desktop first | -xl, -lg, -md, -sm, -xs| 1280px, 1024px, 768px, 640px, 576px|
-mobile first | -sm, -md, -lg, -xl, -xxl| 640px, 768px, 1024px, 1280px, 1536px|
+mobile first | -sm, -md, -lg, -xl, -2xl| 640px, 768px, 1024px, 1280px, 1536px|
