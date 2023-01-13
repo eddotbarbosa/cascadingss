@@ -2,6 +2,9 @@
 
 A grid system made with scss modules.
 
+## Related Repositories
+[Cascadingss Styled](https://github.com/eddotbarbosa/cascadingss-styled)
+
 ## Technologies
 * sass
 * css modules
